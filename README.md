@@ -4,7 +4,7 @@ build :
 - Framework Laravel 
 - PHP programing language 
 - Javascript
-- Database MySQL
+- Database MySQL 
 
 whats ?
 - sistem informasi antrian online rumah sakit yang memungkinkan pasien untuk mengantri secara online di poli - poli yang dipilih secara online
@@ -23,7 +23,7 @@ Feature ?
 - Call queue by email
 - etc.
 
-
+I'm sorry, database for this system is missing huhuhu
 
 
 
