@@ -35,15 +35,9 @@
 <h5> I'm sorry, database for this system is missing huhuhu :( </h5>
 
 
-![erd_usecase](https://user-images.githubusercontent.com/62735019/147570124-1b1363d1-c866-478b-bfa7-cba3a5347495.jpg)
-
 ![DB](https://user-images.githubusercontent.com/62735019/147570152-6ab95589-65d4-49c3-a6e0-851987299002.png)
 
-![image](https://user-images.githubusercontent.com/62735019/147570470-8e8fe051-5fff-490c-a56e-3135e0097ac2.png)
 
-![image](https://user-images.githubusercontent.com/62735019/147570503-6338cde5-7075-4ad3-bee3-6ae6020dd66a.png)
-
-![image](https://user-images.githubusercontent.com/62735019/147570540-c69cc787-1996-41c2-a5d2-90ea1621780c.png)
 
 
 
