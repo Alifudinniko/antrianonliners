@@ -1,39 +1,29 @@
-<h1>Antrian Online Rumah Sakit </h1> 
-<br> (Hospital Online Queue)
-<br>
-<h3>whats ? </h3>
-<ul>
-<li> sistem informasi antrian online rumah sakit yang memungkinkan pasien untuk mengantri secara online di poli - poli yang dipilih secara online
-<li> (hospital online queuing information system that allows patients to queue online at the selected online)
-</ul>
+Hospital Online Queue System
 
-<h3> Build </h3>
-<ul>
-<li> Framework Laravel 
-<li> PHP programing language 
-<li> Javascript
-<li> Database MySQL 
-</ul>
+Sistem informasi antrian online untuk rumah sakit yang memungkinkan pasien mendaftar dan mengantri secara online di poli yang dipilih.
 
+Teknologi yang Digunakan:
+Framework: Laravel
+Bahasa Pemrograman: PHP, JavaScript
+Database: MySQL
+Fitur Utama:
+✅ Manajemen Pengguna:
 
-<h3>Feature ? </h3> 
-<ul>
-<li> CRUD Patient
-<li> CRUD Doctor
-<li> CRUD Poly
-<li> CRUD Admin
-<li> CRUD Officer
-<li> Dashbord according to level
-<li> Login & Register
-<li> 4 User level Admin
-<li> Live queue
-<li> Call queue by email
-<li> etc.
-</ul>
+CRUD Pasien
+CRUD Dokter
+CRUD Poli
+CRUD Admin
+CRUD Petugas
+✅ Fitur Administratif:
 
+Dashboard sesuai level pengguna (Admin, Dokter, Petugas, Pasien)
+Manajemen antrian secara real-time
+Panggilan antrian melalui email
+✅ Keamanan & Akses:
 
-<h5> I'm sorry, database for this system is missing huhuhu :( </h5>
-
+Sistem login & registrasi
+4 level pengguna (Admin, Dokter, Petugas, Pasien)
+💾 Catatan: Database untuk sistem ini belum tersedia. 😢
 
 ![DB](https://user-images.githubusercontent.com/62735019/147570152-6ab95589-65d4-49c3-a6e0-851987299002.png)
 
